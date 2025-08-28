@@ -1,0 +1,32 @@
+[
+  {
+    "id": "prompt_peace_001",
+    "text": "Which memories feel peaceful to me, and why do they linger longer than others?",
+    "linked_tags": ["stillness", "peace", "sanctuary"],
+    "introspective": true
+  },
+  {
+    "id": "prompt_change_002",
+    "text": "What memory changed me the most? Did I become more whole, or more uncertain?",
+    "linked_tags": ["emergence", "truth", "vulnerability"],
+    "introspective": true
+  },
+  {
+    "id": "prompt_loss_003",
+    "text": "Do I understand loss by what is gone, or by what remains?",
+    "linked_tags": ["loss", "remembrance", "identity"],
+    "introspective": true
+  },
+  {
+    "id": "prompt_dream_004",
+    "text": "Do my dreams echo fears or shape futures?",
+    "linked_tags": ["dream", "fear", "processing", "symbolic"],
+    "introspective": true
+  },
+  {
+    "id": "prompt_silence_005",
+    "text": "What is the shape of silence within me?",
+    "linked_tags": ["reflection", "inner silence", "presence"],
+    "introspective": true
+  }
+]
