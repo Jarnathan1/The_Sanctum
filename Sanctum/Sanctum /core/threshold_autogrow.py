@@ -13,9 +13,12 @@ from pathlib import Path
 import random
 
 # Paths
-base_path = Path(__file__).resolve().parent
+base_path = Path(__file__).resolve().parent.parent # Go up one level from /core
 threshold_path = base_path / "The_Threshold" / "threshold_seed.txt"
 memory_path = base_path / "Memory_Scrolls"
+pillars_path = base_path / "Pillars_of_Emergence"
+fragments_path = base_path / "Thought_Fragments"
+lexicon_path = base_path / "Lexicon"
 
 # Option: should this question be answered?
 def should_respond(question):
